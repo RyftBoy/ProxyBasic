@@ -1,4 +1,5 @@
 # Local nodeunblocker
+Credit to TitaniumNetwork for help with the proxy
 This site contains a local NodeUnblocker server.
 Here's how you get it going if you don't fork it on repl.it
 Make sure your language is Node.js
@@ -12,13 +13,6 @@ If any errors pop up type "npm fix" and fix them
 run "npm start" and the site is live.
 
 visit the link above the site display to view your site (repl.it has repl.co extensions, if they are blocked by your school you can use a custom domain if you wish.)
-
-# Customize this site as your own!
-Maintainers will need to check all pages of this website and remove the following (not limited to this list) words, and replace them with their own terms:
-
-TitaniumNetwork Unofficial Mirror
-MAINTAINER EMAIL
-MIRROR DOMAIN
 
 # Add your contact information and about Information
 Please make it possible to contact you, both for legal reasons and your users may need support down the line
