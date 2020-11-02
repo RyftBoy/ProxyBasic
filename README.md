@@ -1,12 +1,6 @@
-# titanium-p2
-P2 site code, people wanted this to be released for a while so I'm doing it.
-
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/titaniumnetwork-dev/titanium-p2)
-
 # Local nodeunblocker
-
 This site contains a local NodeUnblocker server.
-Here's how you get it going:
+Here's how you get it going if you don't fork it on repl.it
 Make sure your language is Node.js
 
 Make sure NPM has adequate access.
